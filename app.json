@@ -1,0 +1,12 @@
+{
+  "name": "react-native-apollo-jest",
+  "displayName": "react-native-apollo-jest",
+  "expo": {
+    "name": "react-native-apollo-jest",
+    "slug": "react-native-apollo-jest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
